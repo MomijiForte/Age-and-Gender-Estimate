@@ -1,7 +1,5 @@
 # Age-and-Gender-Estimate
-Use Machine Learning to train CNN model to estimate correct age and gender classification
-
-From UTKFace dataset, build and train your deep learning models for both gender classification and age estimation.
+Using Machine Learning method to build and train deep learning models to estimate correct age and gender classification from UTLFace dataset.
 
 ---
 **NOTES:**
